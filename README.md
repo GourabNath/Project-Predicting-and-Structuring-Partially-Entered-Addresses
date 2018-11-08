@@ -1,1 +1,1 @@
-# Project-Predicting-and-Structuring-Partially-Entered-Addresses
+# Predicting and Structuring Partially Entered Addresses
